@@ -191,6 +191,11 @@
 					46FFD4D61ECDE54B0013D847 = {
 						CreatedOnToolsVersion = 8.0;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
 					};
 					46FFD4EA1ECDE54B0013D847 = {
 						CreatedOnToolsVersion = 8.0;
